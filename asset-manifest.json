@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simple-number-guessing-game-using-ReactJS/static/css/main.fea68f65.css",
+    "main.js": "/simple-number-guessing-game-using-ReactJS/static/js/main.a24694cd.js",
+    "static/js/453.6a894b16.chunk.js": "/simple-number-guessing-game-using-ReactJS/static/js/453.6a894b16.chunk.js",
+    "static/media/logo.svg": "/simple-number-guessing-game-using-ReactJS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/simple-number-guessing-game-using-ReactJS/index.html",
+    "main.fea68f65.css.map": "/simple-number-guessing-game-using-ReactJS/static/css/main.fea68f65.css.map",
+    "main.a24694cd.js.map": "/simple-number-guessing-game-using-ReactJS/static/js/main.a24694cd.js.map",
+    "453.6a894b16.chunk.js.map": "/simple-number-guessing-game-using-ReactJS/static/js/453.6a894b16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fea68f65.css",
+    "static/js/main.a24694cd.js"
+  ]
+}
