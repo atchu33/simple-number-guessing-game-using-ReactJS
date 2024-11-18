@@ -6,7 +6,7 @@ function Result({secretNum,term}){
         result="higher";
     }else if(term<secretNum){
         result="lower";
-    }else if(term==secretNum){
+    }else if(term===secretNum){
         result="yipee!correct";
     }else{
         result="enter valid number"
