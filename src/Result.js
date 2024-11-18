@@ -11,7 +11,7 @@ function Result({secretNum,term}){
     }else{
         result="enter valid number"
     }
-    return<h1>you guessed: {result}</h1>
+    return<h1>you guessed:{result}</h1>
 }
 
 export default Result;
